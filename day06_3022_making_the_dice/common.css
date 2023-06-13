@@ -1,0 +1,21 @@
+body {
+    perspective: 1000px;
+}
+
+.cube {
+    position: relative;
+    font-size: 80px;
+    width: 2em;
+    margin: 1.5em auto;
+}
+
+.cube div {
+    position: absolute;
+    width: 2em;
+    height: 2em;
+    background: rgba(0, 0, 0, .1);
+    border: 1px solid #aaa;
+    color: white;
+    text-align: center;
+    line-height: 2em;
+}

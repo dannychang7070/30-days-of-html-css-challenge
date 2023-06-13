@@ -1,0 +1,12 @@
+table {
+    background-color: lightcyan;
+    text-align: center;
+}
+
+tbody > tr:nth-child(even) {
+    background-color: lightskyblue;
+}
+
+tbody > tr:nth-child(odd) {
+    background-color: dodgerblue;
+}
