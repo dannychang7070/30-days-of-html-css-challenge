@@ -1,0 +1,6 @@
+.pic {
+    /* 剪裁圖像 */
+    clip-path: circle(50%);
+    /* 使圖形文字根據其外邊距邊緣進行對齊 */
+    shape-outside: margin-box;
+}
