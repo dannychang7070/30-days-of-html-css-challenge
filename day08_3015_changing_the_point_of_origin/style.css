@@ -1,0 +1,11 @@
+.root .box1 {
+    transform-origin: top;
+}
+
+.root .box2 {
+    transform-origin: 0 0;
+}
+
+.root .box3 {
+    transform-origin: right bottom;
+}
