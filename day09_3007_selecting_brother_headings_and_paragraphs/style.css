@@ -1,0 +1,11 @@
+p:first-of-type {
+    text-decoration: wavy underline;
+}
+
+p:last-of-type {
+    text-decoration: line-through;
+}
+
+h1:nth-of-type(odd) {
+    color: steelblue;
+}

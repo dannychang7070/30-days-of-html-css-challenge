@@ -1,0 +1,9 @@
+.root {
+    background-color: blanchedalmond;
+    color: purple;
+}
+
+.root:hover {
+    width: 100%;
+    background-color: chocolate;
+}
