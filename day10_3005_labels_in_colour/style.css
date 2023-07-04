@@ -1,0 +1,11 @@
+.root1>span:first-child {
+    background-color: lightseagreen;
+}
+
+.root2>span:nth-child(odd) {
+    background-color: lightpink;
+}
+
+.root3>span:nth-child(-n+3) {
+    background-color: lightskyblue;
+}

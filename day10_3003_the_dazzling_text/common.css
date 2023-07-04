@@ -1,0 +1,7 @@
+p {
+    padding: 1.4em;
+    background: linear-gradient(60deg, red, orange, yellow, green, purple);
+    font-weight: 700;
+    font-size: 1.2em;
+    text-decoration: underline;
+}
