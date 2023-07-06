@@ -1,0 +1,9 @@
+.resizable {
+    overflow: auto;
+    border: 1px solid black;
+}
+
+p {
+    width: 200px;
+    height: 100px;
+}

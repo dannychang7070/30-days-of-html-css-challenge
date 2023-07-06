@@ -1,0 +1,7 @@
+.big-triangles {
+    transform: translateY(-40px) scale(2);
+}
+
+.small-triangles {
+    transform: translateY(-40px) scale(0.5, 1.5);
+}

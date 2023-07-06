@@ -1,0 +1,21 @@
+@keyframes move {
+    0% {
+        background-color: cornflowerblue;
+    }
+
+    20% {
+        background-color: darkorange;
+    }
+
+    40% {
+        background-color: violet;
+    }
+
+    60% {
+        background-color: crimson;
+    }
+
+    100% {
+        background-color: cornsilk;
+    }
+}
