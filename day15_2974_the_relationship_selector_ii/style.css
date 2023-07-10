@@ -1,0 +1,7 @@
+p+span {
+    background-color: bisque;
+}
+
+span~p {
+    color: red;
+}
