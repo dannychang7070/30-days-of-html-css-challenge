@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.root {
+    height: 100%;
+}
+
+.example {
+    width: 100%;
+    height: 50px;
+    background-color: cornflowerblue;
+    border: 10px solid blue;
+}
+
+.changed {
+    height: 80px;
+    background-color: coral;
+    border: 10px solid orange;
+}
+
+.changed1 {
+    width: 150px;
+}
