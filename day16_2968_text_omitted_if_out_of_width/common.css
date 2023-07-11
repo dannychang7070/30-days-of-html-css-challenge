@@ -1,0 +1,13 @@
+h1 {
+    color: steelblue;
+}
+
+.news {
+    width: 350px;
+    border: 1px dotted gray;
+    padding: 10px;
+}
+
+h2 {
+    width: 350px;
+}

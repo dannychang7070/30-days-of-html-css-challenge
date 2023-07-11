@@ -1,0 +1,14 @@
+button[name^="ba"] {
+    height: 40px;
+    background-color: skyblue;
+    border: 0px;
+}
+
+button[name$="ing"] {
+    height: 40px;
+    background-color: white;
+}
+
+button[name*="nn"] {
+    color: coral;
+}

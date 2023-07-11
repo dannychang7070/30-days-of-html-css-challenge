@@ -1,0 +1,13 @@
+.title1,
+.title3,
+.title4 {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.title2 {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: clip;
+}
