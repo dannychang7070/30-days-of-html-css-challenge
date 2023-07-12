@@ -1,0 +1,15 @@
+input[name="username"] {
+    border: 2px solid skyblue;
+}
+
+input[name="age"] {
+    border: 2px solid yellow;
+}
+
+input[name="sex"] {
+    border: 2px solid greenyellow;
+}
+
+input[name="other"] {
+    border: 2px solid coral;
+}

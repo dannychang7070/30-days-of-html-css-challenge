@@ -1,0 +1,12 @@
+.poem {
+    writing-mode: vertical-rl;
+    background-color: wheat;
+    padding: 10px;
+    border: 1px dashed gray;
+    text-align: center;
+}
+
+.poem-content {
+    line-height: 1.5em;
+    border: 1px solid gray;
+}
