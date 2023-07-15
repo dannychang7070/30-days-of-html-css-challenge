@@ -1,0 +1,11 @@
+.root {
+    width: 150px;
+    border: 1px solid black;
+}
+
+.box1,
+.box2,
+.box3 {
+    text-align: center;
+    color: black;
+}
