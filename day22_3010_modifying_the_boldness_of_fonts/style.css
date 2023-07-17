@@ -1,0 +1,15 @@
+.point {
+    font-weight: bold;
+}
+
+.slim {
+    font-weight: lighter;
+}
+
+.rough {
+    font-weight: 1000;
+}
+
+.important {
+    font-weight: bolder;
+}

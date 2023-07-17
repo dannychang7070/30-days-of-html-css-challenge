@@ -1,0 +1,13 @@
+.nav {
+    width: 170px;
+    height: 200px;
+    background-color: seashell;
+    line-height: 50px;
+}
+
+a {
+    display: block;
+    margin-left: 10px;
+    color: steelblue;
+    text-decoration: none;
+}
