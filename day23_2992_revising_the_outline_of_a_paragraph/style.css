@@ -1,0 +1,17 @@
+.text1 {
+    outline: solid;
+}
+
+.text2 {
+    outline: dotted steelblue;
+}
+
+.text3 {
+    outline: 5px dashed plum;
+    border-radius: 20px;
+}
+
+.text4 {
+    outline: 5px dashed red;
+    border: 5px solid black;
+}

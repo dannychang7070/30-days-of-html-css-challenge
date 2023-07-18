@@ -1,0 +1,9 @@
+.box1,
+.box2,
+.box3,
+.box4 {
+    width: 100px;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}

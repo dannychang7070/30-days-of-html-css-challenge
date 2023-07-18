@@ -1,0 +1,14 @@
+.box1 {
+    /* 水平向右移動100px */
+    transform: translate(100px, 0px);
+}
+
+.box3 {
+    /* 垂直向下移動150px */
+    transform: translate(0px, 150px);
+}
+
+.box4 {
+    /* 水平向右移動100px，垂直向上移動150px */
+    transform: translate(100px, -150px);
+}

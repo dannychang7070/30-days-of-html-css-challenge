@@ -1,0 +1,20 @@
+div {
+    border: 3px solid gray;
+    margin: 20px auto;
+}
+
+.box1 {
+    background-color: antiquewhite;
+}
+
+.box2 {
+    background-color: cornflowerblue;
+}
+
+.box3 {
+    background-color: rebeccapurple;
+}
+
+.box4 {
+    background-color: lightskyblue;
+}
