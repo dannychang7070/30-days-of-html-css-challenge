@@ -1,0 +1,18 @@
+.box1 {
+    text-shadow: -5px -5px 3px rgb(122, 114, 114);
+}
+
+.box2 {
+    box-shadow: 10px 10px 5px rgb(206, 204, 204);
+}
+
+.box3 {
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(235, 233, 154),
+        10px 10px 5px rgb(91, 150, 240),
+        10px 10px 5px rgb(240, 91, 106);
+}
+
+.box4 {
+    box-shadow: 10px -10px 10px rgba(240, 230, 99, 0.89) inset;
+}

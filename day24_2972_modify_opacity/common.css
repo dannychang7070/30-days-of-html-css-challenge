@@ -1,0 +1,6 @@
+.light,
+.medium,
+.heavy {
+    background-color: coral;
+    margin-top: 10px;
+}
